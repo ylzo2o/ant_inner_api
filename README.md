@@ -1,3 +1,3 @@
-ant_api
+ant_inner_api
 =======
-业务逻辑的api接口，wap、wechat、app、web版本基于本api开发
+业务逻辑的内部api接口
